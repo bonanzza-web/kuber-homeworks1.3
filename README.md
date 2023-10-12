@@ -307,6 +307,8 @@ nginx-final-756dcb66b6-fstss   2/2     Running   0             13m
 nginx-init-9f6bf5c97-dkvbb     1/1     Running   0             3m11s
 
 ```
+![alt text](https://github.com/bonanzza-web/kuber-homeworks1.3/blob/main/docs/2023-10-12_17-54-18.png)
+
 Сервис пересоздавать не стал, т.к. есть с первого задания, под с инит контейнером доступен:
 ```
 ubuntu@server-1:~/kuber$ micro get pods -o wide
@@ -377,7 +379,7 @@ Hello world
 Todo esta bien
 
 ```
-
+Файлы находятся в каталоге (https://github.com/bonanzza-web/kuber-homeworks1.3/tree/main/docs)
 
 
 ------
